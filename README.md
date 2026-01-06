@@ -4,12 +4,15 @@ This reposiroy documents my journey of learning Machine Learning from scratch.
 ## Background
 I am a Mechanical Engineering student at BITS starting ML in my third year.
 
-## Current Focus
-- Understanding how GitHub works
-- Setting up my learning workflow
-- Preparing to start CS 229 (Andrew Ng)
+## Current Focus (Week 1)
+- Understanding how GitHub works and version control work
+- Setting up python environment
+- Preparing for CS 229 (Andrew Ng)
 
 ## Goals
-- Learn ML fundamentals
-- Build beginner friendly projects
-- Apply ML to real world problems
+- Build strong ML foundations
+- Work on applied and advanced ML projects
+- Explore research and real world AI systems
+
+##Progress Log
+Week 1: Setup, Github Basics, Python introduction
