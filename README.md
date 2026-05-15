@@ -1,5 +1,5 @@
 # ml-learning
-This reposiroy documents my journey of learning Machine Learning from scratch.
+This repository documents my journey of learning Machine Learning from scratch.
 
 ## Background
 I am a Mechanical Engineering student at BITS starting ML in my third year.
