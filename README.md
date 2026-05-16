@@ -15,4 +15,4 @@ I am a Mechanical Engineering student at BITS starting ML in my third year.
 - Explore research and real world AI systems
 
 ##Progress Log
-Week 1: Setup, Github Basics, Python introduction
+Week 1: Setup, Github Basics, Python revision
